@@ -1,1 +1,4 @@
 % cd $HOME
+% git clone https://github.com/tseemann/prokka.git
+% ls prokka
+% prokka/bin/prokka --setupdb
